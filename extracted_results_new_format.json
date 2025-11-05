@@ -1,0 +1,92 @@
+[
+  {
+    "study_id": "item_CWVI2NE5",
+    "title": "A comparison of high-flow nasal cannula and standard facemask as pre-oxygenation technique for general anesthesia: A PRISMA-compliant systemic review and meta-analysis.",
+    "authors": "Hsien-Cheng Kuo",
+    "publication_date": "2022 Mar 11",
+    "study_design": "Systematic review and meta-analysis",
+    "sample": "16 randomized controlled trials, 1148 patients",
+    "comparison": "High-flow nasal cannula (HFNC) vs. Standard facemask",
+    "key_findings": [
+      {
+        "outcome": "Arterial oxygen partial pressure (PaO2)",
+        "result": "HFNC achieved a higher PaO2.",
+        "details": "Mean difference: 64.86 mm Hg (95% CI: 32.33-97.40)"
+      },
+      {
+        "outcome": "Safe apnea time",
+        "result": "Longer in the HFNC group.",
+        "details": "Mean difference: 131.03 seconds (95% CI: 59.39-202.66)"
+      },
+      {
+        "outcome": "Patient comfort score",
+        "result": "Higher in the HFNC group.",
+        "details": "Mean difference: 1.00 (95% CI: 0.46-1.54)"
+      },
+      {
+        "outcome": "Peri-intubation desaturation or lowest SpO2",
+        "result": "No difference between groups."
+      }
+    ]
+  },
+  {
+    "study_id": "item_Z66CTS68",
+    "title": "Comparing oxygen therapies for hypoxemia prevention during gastrointestinal endoscopy under procedural sedation: A systematic review and network meta-analysis.",
+    "authors": "Shuailei Wang",
+    "publication_date": "2024 Nov",
+    "study_design": "Systematic review and network meta-analysis",
+    "sample": "27 RCTs, 7552 patients",
+    "comparison": "Various oxygen therapies including Nasal Cannula (NC), Non-invasive positive pressure ventilation (NIPPV), and Wei nasal jet tube (WNJT)",
+    "key_findings": [
+      {
+        "outcome": "Hypoxemia prevention",
+        "result": "NIPPV and WNJT demonstrated superior efficacy compared to NC.",
+        "details": "NIPPV vs. NC, OR 0.16; WNJT vs. NC, OR 0.17"
+      }
+    ]
+  },
+  {
+    "study_id": "item_7IYQ2ZIT",
+    "title": "Comparison of High-flow Nasal Cannula (HFNC) and Conventional Oxygen Therapy in Obese Patients Undergoing Cardiac Surgery: A Systematic Review and Meta-analysis",
+    "authors": "Yanli Wang",
+    "publication_date": "2021",
+    "study_design": "Systematic review and meta-analysis",
+    "sample": "3 RCTs, 526 patients",
+    "comparison": "High-flow Nasal Cannula (HFNC) vs. Conventional Oxygen Therapy (COT)",
+    "key_findings": [
+      {
+        "outcome": "Atelectasis score, dyspnea score, reintubation, and ICU length of stay",
+        "result": "No significant difference between HFNC and COT."
+      }
+    ]
+  },
+  {
+    "study_id": "item_KMVDJEEZ",
+    "title": "Comparison of high-flow nasal cannula oxygenation and non-invasive ventilation for postoperative pediatric cardiac surgery: a meta-analysis.",
+    "authors": "Si-Jia Zhou",
+    "publication_date": "2024 Feb 21",
+    "study_design": "Meta-analysis",
+    "sample": "5 publications (1 RCT, 4 cohort studies)",
+    "comparison": "High-flow Nasal Cannula (HFNC) vs. Non-invasive ventilation (NIV)",
+    "key_findings": [
+      {
+        "outcome": "Reintubation rates",
+        "result": "Significant reduction in the HFNC group.",
+        "details": "RR 0.36, 95% CI (0.25-0.53)"
+      },
+      {
+        "outcome": "Duration of ICU stay",
+        "result": "Notable reduction in the HFNC group.",
+        "details": "MD -4.75, 95% CI (-9.38 - -0.12)"
+      },
+      {
+        "outcome": "Duration of mechanical ventilation, 24h PaO2, and PaCO2 post-treatment",
+        "result": "No statistically significant differences."
+      },
+      {
+        "outcome": "Duration of extracorporeal circulation",
+        "result": "No significant difference."
+      }
+    ]
+  }
+]
